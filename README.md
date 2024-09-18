@@ -28,8 +28,8 @@ A simple news aggregator application built with React and Node.js. This project 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/news-aggregator.git
-    cd news-aggregator
+    git clone https://github.com/prateek2102/news.git
+    cd news
     ```
 
 2. **Install backend dependencies:**
